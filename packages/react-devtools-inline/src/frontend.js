@@ -16,6 +16,8 @@ import {
 import type {FrontendBridge} from 'react-devtools-shared/src/bridge';
 import type {Props} from 'react-devtools-shared/src/devtools/views/DevTools';
 
+console.log('>> NgDevelop - React devtools v4.4.0 - Patched version');
+
 export function initialize(
   contentWindow: window,
 ): React.AbstractComponent<Props, mixed> {

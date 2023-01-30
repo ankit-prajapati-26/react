@@ -1,6 +1,6 @@
 {
-  "name": "react-devtools-inline",
-  "version": "4.4.0",
+  "name": "@ngdevelop/react-devtools-inline-new",
+  "version": "0.0.1",
   "description": "Embed react-devtools within a website",
   "license": "MIT",
   "main": "./dist/backend.js",
